@@ -1,0 +1,62 @@
+[
+  {
+    "id": "demo-001",
+    "slug": "titolo-dimostrativo-1",
+    "title": "Titolo dimostrativo 01",
+    "author": "Autore dimostrativo",
+    "demo": true,
+    "cover": {
+      "src": "covers/demo-001.svg",
+      "width": 480,
+      "height": 720,
+      "alt": "Copertina dimostrativa, nessun libro reale",
+      "source": "Segnaposto tipografico locale"
+    },
+    "spineColor": "#31584A",
+    "accentColor": "#547566",
+    "evidenceTag": "interesse-confermato",
+    "officeNote": "Il soggetto ha manifestato un interesse superiore alla media.",
+    "visible": true,
+    "order": 1
+  },
+  {
+    "id": "demo-002",
+    "slug": "titolo-dimostrativo-2",
+    "title": "Titolo dimostrativo 02",
+    "author": "Autore dimostrativo",
+    "demo": true,
+    "cover": {
+      "src": "covers/demo-002.svg",
+      "width": 480,
+      "height": 720,
+      "alt": "Copertina dimostrativa, nessun libro reale",
+      "source": "Segnaposto tipografico locale"
+    },
+    "spineColor": "#794F40",
+    "accentColor": "#547566",
+    "evidenceTag": "interesse-confermato",
+    "officeNote": "Il soggetto ha manifestato un interesse superiore alla media.",
+    "visible": true,
+    "order": 2
+  },
+  {
+    "id": "demo-003",
+    "slug": "titolo-dimostrativo-3",
+    "title": "Titolo dimostrativo 03",
+    "author": "Autore dimostrativo",
+    "demo": true,
+    "cover": {
+      "src": "covers/demo-003.svg",
+      "width": 480,
+      "height": 720,
+      "alt": "Copertina dimostrativa, nessun libro reale",
+      "source": "Segnaposto tipografico locale"
+    },
+    "spineColor": "#3F4A61",
+    "accentColor": "#547566",
+    "evidenceTag": "interesse-confermato",
+    "officeNote": "Il soggetto ha manifestato un interesse superiore alla media.",
+    "visible": true,
+    "order": 3
+  }
+]

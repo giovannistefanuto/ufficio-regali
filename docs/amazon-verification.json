@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "le-tre-del-mattino",
+    "expectedIsbn": "9788806240707",
+    "candidate": "https://www.amazon.it/dp/8806240706",
+    "observed": {
+      "isbnConfirmed": true,
+      "title": "Le tre del mattino",
+      "url": "https://www.amazon.it/dp/8806240706"
+    },
+    "checkedOn": "2026-11-04"
+  },
+  {
+    "slug": "bianca-come-il-latte-rossa-come-il-sangue",
+    "expectedIsbn": "9788804666578",
+    "candidate": "https://www.amazon.it/dp/8804666579",
+    "observed": {
+      "title": "Bianca come il latte, rossa come il sangue",
+      "isbnConfirmed": true,
+      "url": "https://www.amazon.it/dp/8804666579"
+    },
+    "checkedOn": "2026-11-04"
+  },
+  {
+    "slug": "storia-umana-intelligenza-artificiale",
+    "expectedIsbn": "9788858161906",
+    "candidate": "https://www.amazon.it/dp/8858161904",
+    "observed": {
+      "isbnConfirmed": true,
+      "title": "Storia umana dell'intelligenza artificiale. Sogni, battaglie e illusioni da Turing a oggi",
+      "url": "https://www.amazon.it/dp/8858161904"
+    },
+    "checkedOn": "2026-11-04"
+  },
+  {
+    "slug": "clean-code",
+    "expectedIsbn": "9788850339792",
+    "candidate": "https://www.amazon.it/dp/8850339798",
+    "observed": {
+      "isbnConfirmed": true,
+      "title": "Clean Code. Guida per scrivere codice pulito ai tempi dell'AI",
+      "url": "https://www.amazon.it/dp/8850339798"
+    },
+    "checkedOn": "2026-11-04"
+  },
+  {
+    "slug": "genai-trading",
+    "expectedIsbn": "9788850339464",
+    "candidate": "https://www.amazon.it/dp/8850339461",
+    "observed": {
+      "isbnConfirmed": true,
+      "title": "GenAI trading. Strategie intelligenti per gestire patrimoni, investimenti e portafogli",
+      "url": "https://www.amazon.it/dp/8850339461"
+    },
+    "checkedOn": "2026-11-04"
+  },
+  {
+    "slug": "sviluppare-large-language-model",
+    "expectedIsbn": "9788850339006",
+    "candidate": "https://www.amazon.it/dp/8850339003",
+    "observed": {
+      "title": "Sviluppare Large Language Model. Costruire da zero LLM su misura",
+      "url": "https://www.amazon.it/dp/8850339003",
+      "isbnConfirmed": true
+    },
+    "checkedOn": "2026-11-04",
+    "verificationNote": "Product title and ISBN-13 978-8850339006 read in browser before subsequent intermediate/CAPTCHA pages."
+  },
+  {
+    "slug": "liberi-tutti",
+    "expectedIsbn": "9788807037351",
+    "candidate": "https://www.amazon.it/dp/8807037351",
+    "observed": {
+      "isbnConfirmed": true,
+      "title": "Liberi tutti: Con cartolina illustrata in omaggio",
+      "url": "https://www.amazon.it/dp/8807037351"
+    },
+    "checkedOn": "2026-11-04"
+  },
+  {
+    "slug": "ai-hacking",
+    "expectedIsbn": "9788850339945",
+    "candidate": "https://www.amazon.it/dp/8850339941",
+    "observed": {
+      "isbnConfirmed": true,
+      "title": "AI Hacking. Guida per violare e difendere i sistemi di intelligenza artificiale",
+      "url": "https://www.amazon.it/dp/8850339941"
+    },
+    "checkedOn": "2026-11-04"
+  },
+  {
+    "slug": "vino",
+    "expectedIsbn": "9788809954090",
+    "candidate": "https://www.amazon.it/dp/8809954092",
+    "observed": {
+      "isbnConfirmed": true,
+      "title": "Vino. Manuale per aspiranti intenditori",
+      "url": "https://www.amazon.it/dp/8809954092"
+    },
+    "checkedOn": "2026-11-04"
+  },
+  {
+    "slug": "atomic-habits",
+    "expectedIsbn": "9791221208870",
+    "candidate": "https://www.amazon.it/dp/B0C7FQW26M",
+    "observed": {
+      "isbnConfirmed": false,
+      "url": "https://www.amazon.it/dp/B0C7FQW26M"
+    },
+    "checkedOn": "2026-11-04",
+    "publisherVerification": {
+      "isbn": "9791221208870",
+      "sourceUrl": "https://www.deagostinilibri.it/acquista/9791221208870/cartaceo/amazon",
+      "redirectUrl": "https://www.amazon.it/dp/B0C7FQW26M?tag=deagolib-21&linkCode=osi&th=1&psc=1",
+      "method": "HTTP 303 from publisher; affiliate parameters removed in catalog",
+      "verifiedOn": "2026-11-04"
+    }
+  },
+  {
+    "slug": "git",
+    "expectedIsbn": "9788850334759",
+    "candidate": "https://www.amazon.it/dp/8850334753",
+    "observed": {
+      "title": "Git. Guida per imparare a gestire, distribuire e versionare codice",
+      "isbnConfirmed": true,
+      "url": "https://www.amazon.it/dp/8850334753"
+    },
+    "checkedOn": "2026-11-04"
+  }
+]

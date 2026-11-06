@@ -1,0 +1,24 @@
+:root {
+  --paper: #f6f2e9;
+  --ink: #202722;
+  --archive: #31584a;
+  --stamp: #bf533e;
+  --divider: #d4cec1;
+  --muted: #565d55;
+  --gallery-dark: #202722;
+  --pages: #eee9df;
+  --serif: 'Instrument Serif', Georgia, serif;
+  --sans: 'Inter', sans-serif;
+  --mono: 'IBM Plex Mono', monospace;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-24: 96px;
+  --content-width: 1280px;
+  --gutter: clamp(24px, 4.45vw, 64px);
+}

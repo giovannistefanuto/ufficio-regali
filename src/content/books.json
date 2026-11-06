@@ -1,0 +1,340 @@
+[
+  {
+    "slug": "sviluppare-large-language-model",
+    "title": "Sviluppare Large Language Model",
+    "author": "Sebastian Raschka",
+    "isbn13": "9788850339006",
+    "publisher": "Apogeo",
+    "edition": "2025",
+    "subtitle": "Costruire da zero LLM su misura",
+    "id": "b001",
+    "cover": {
+      "src": "covers/sviluppare-large-language-model.webp",
+      "smallSrc": "covers/sviluppare-large-language-model-480.webp",
+      "width": 350,
+      "height": 500,
+      "alt": "Copertina di Sviluppare Large Language Model, Sebastian Raschka",
+      "source": "https://images-na.ssl-images-amazon.com/images/P/8850339003.01.LZZZZZZZ.jpg"
+    },
+    "spineColor": "#18362E",
+    "accentColor": "#18362E",
+    "evidenceTag": "interesse-confermato",
+    "officeNote": "Le indagini hanno prodotto risultati concreti.",
+    "visible": true,
+    "order": 1,
+    "provenance": {
+      "photo": "FOTO INIZIALI LIBRO/photo_2026-11-04_15-13-36.jpg",
+      "metadataUrl": "https://www.apogeonline.com/libri/sviluppare-large-language-model-sebastian-raschka/",
+      "verifiedOn": "2026-11-04",
+      "amazonVerifiedOn": "2026-11-04"
+    },
+    "amazonUrl": "https://www.amazon.it/dp/8850339003"
+  },
+  {
+    "slug": "liberi-tutti",
+    "title": "Liberi tutti",
+    "author": "Chiara Gamberale",
+    "isbn13": "9788807037351",
+    "publisher": "Feltrinelli",
+    "edition": "I narratori · 2026",
+    "id": "b002",
+    "cover": {
+      "src": "covers/liberi-tutti.webp",
+      "smallSrc": "covers/liberi-tutti-480.webp",
+      "width": 319,
+      "height": 500,
+      "alt": "Copertina di Liberi tutti, Chiara Gamberale",
+      "source": "https://images-na.ssl-images-amazon.com/images/P/8807037351.01.LZZZZZZZ.jpg"
+    },
+    "spineColor": "#698579",
+    "accentColor": "#698579",
+    "evidenceTag": "interesse-confermato",
+    "officeNote": "Le indagini hanno prodotto risultati concreti.",
+    "visible": true,
+    "order": 2,
+    "provenance": {
+      "photo": "FOTO INIZIALI LIBRO/photo_2026-11-04_15-13-45.jpg",
+      "metadataUrl": "https://www.lafeltrinelli.biz/liberi-tutti-con-cartolina-illustrata-libro-chiara-gamberale/e/9788807037351",
+      "verifiedOn": "2026-11-04",
+      "amazonVerifiedOn": "2026-11-04"
+    },
+    "amazonUrl": "https://www.amazon.it/dp/8807037351"
+  },
+  {
+    "slug": "le-tre-del-mattino",
+    "title": "Le tre del mattino",
+    "author": "Gianrico Carofiglio",
+    "isbn13": "9788806240707",
+    "publisher": "Einaudi",
+    "edition": "Super ET · 2019",
+    "id": "b003",
+    "cover": {
+      "src": "covers/le-tre-del-mattino.webp",
+      "smallSrc": "covers/le-tre-del-mattino-480.webp",
+      "width": 318,
+      "height": 500,
+      "alt": "Copertina di Le tre del mattino, Gianrico Carofiglio",
+      "source": "https://images-na.ssl-images-amazon.com/images/P/8806240706.01.LZZZZZZZ.jpg"
+    },
+    "spineColor": "#554F42",
+    "accentColor": "#554F42",
+    "evidenceTag": "interesse-confermato",
+    "officeNote": "Le indagini hanno prodotto risultati concreti.",
+    "visible": true,
+    "order": 3,
+    "provenance": {
+      "photo": "FOTO INIZIALI LIBRO/photo_2026-11-04_15-13-49.jpg",
+      "metadataUrl": "https://books.google.com/books?id=WikcxQEACAAJ",
+      "verifiedOn": "2026-11-04",
+      "amazonVerifiedOn": "2026-11-04"
+    },
+    "amazonUrl": "https://www.amazon.it/dp/8806240706"
+  },
+  {
+    "slug": "bianca-come-il-latte-rossa-come-il-sangue",
+    "title": "Bianca come il latte, rossa come il sangue",
+    "author": "Alessandro D'Avenia",
+    "isbn13": "9788804666578",
+    "publisher": "Mondadori",
+    "edition": "Oscar Absolute · 2016",
+    "id": "b004",
+    "cover": {
+      "src": "covers/bianca-come-il-latte-rossa-come-il-sangue.webp",
+      "smallSrc": "covers/bianca-come-il-latte-rossa-come-il-sangue-480.webp",
+      "width": 319,
+      "height": 500,
+      "alt": "Copertina di Bianca come il latte, rossa come il sangue, Alessandro D'Avenia",
+      "source": "https://images-na.ssl-images-amazon.com/images/P/8804666579.01.LZZZZZZZ.jpg"
+    },
+    "spineColor": "#BCAD91",
+    "accentColor": "#BCAD91",
+    "evidenceTag": "interesse-confermato",
+    "officeNote": "Le indagini hanno prodotto risultati concreti.",
+    "visible": true,
+    "order": 4,
+    "provenance": {
+      "photo": "FOTO INIZIALI LIBRO/photo_2026-11-04_15-13-51.jpg",
+      "metadataUrl": "https://www.mondadoristore.it/bianca-come-il-latte-rossa-come-il-sangue-libro-alessandro-d-avenia/p/9788804666578",
+      "verifiedOn": "2026-11-04",
+      "amazonVerifiedOn": "2026-11-04"
+    },
+    "amazonUrl": "https://www.amazon.it/dp/8804666579"
+  },
+  {
+    "slug": "storia-umana-intelligenza-artificiale",
+    "title": "Storia umana dell'intelligenza artificiale",
+    "author": "Andrea Daniele Signorelli",
+    "isbn13": "9788858161906",
+    "publisher": "Laterza",
+    "edition": "2026",
+    "subtitle": "Sogni, battaglie e illusioni da Turing a oggi",
+    "id": "b005",
+    "cover": {
+      "src": "covers/storia-umana-intelligenza-artificiale.webp",
+      "smallSrc": "covers/storia-umana-intelligenza-artificiale-480.webp",
+      "width": 328,
+      "height": 500,
+      "alt": "Copertina di Storia umana dell'intelligenza artificiale, Andrea Daniele Signorelli",
+      "source": "https://images-na.ssl-images-amazon.com/images/P/8858161904.01.LZZZZZZZ.jpg"
+    },
+    "spineColor": "#4C4B40",
+    "accentColor": "#4C4B40",
+    "evidenceTag": "interesse-confermato",
+    "officeNote": "Le indagini hanno prodotto risultati concreti.",
+    "visible": true,
+    "order": 5,
+    "provenance": {
+      "photo": "FOTO INIZIALI LIBRO/photo_2026-11-04_15-13-53.jpg",
+      "metadataUrl": "https://www.laterza.it/scheda-libro/?isbn=9788858161906",
+      "verifiedOn": "2026-11-04",
+      "amazonVerifiedOn": "2026-11-04"
+    },
+    "amazonUrl": "https://www.amazon.it/dp/8858161904"
+  },
+  {
+    "slug": "ai-hacking",
+    "title": "AI Hacking",
+    "author": "Harriet Farlow",
+    "isbn13": "9788850339945",
+    "publisher": "Apogeo",
+    "edition": "2026",
+    "subtitle": "Guida per violare e difendere i sistemi di intelligenza artificiale",
+    "id": "b006",
+    "cover": {
+      "src": "covers/ai-hacking.webp",
+      "smallSrc": "covers/ai-hacking-480.webp",
+      "width": 350,
+      "height": 500,
+      "alt": "Copertina di AI Hacking, Harriet Farlow",
+      "source": "https://images-na.ssl-images-amazon.com/images/P/8850339941.01.LZZZZZZZ.jpg"
+    },
+    "spineColor": "#31566B",
+    "accentColor": "#31566B",
+    "evidenceTag": "interesse-confermato",
+    "officeNote": "Le indagini hanno prodotto risultati concreti.",
+    "visible": true,
+    "order": 6,
+    "provenance": {
+      "photo": "FOTO INIZIALI LIBRO/photo_2026-11-04_15-13-54.jpg",
+      "metadataUrl": "https://www.apogeonline.com/libri/ai-hacking-harriet-farlow/",
+      "verifiedOn": "2026-11-04",
+      "amazonVerifiedOn": "2026-11-04"
+    },
+    "amazonUrl": "https://www.amazon.it/dp/8850339941"
+  },
+  {
+    "slug": "vino",
+    "title": "Vino",
+    "author": "Ophélie Neiman",
+    "isbn13": "9788809954090",
+    "publisher": "Giunti",
+    "edition": "2022",
+    "subtitle": "Manuale per aspiranti intenditori",
+    "id": "b007",
+    "cover": {
+      "src": "covers/vino.webp",
+      "smallSrc": "covers/vino-480.webp",
+      "width": 399,
+      "height": 500,
+      "alt": "Copertina di Vino, Ophélie Neiman",
+      "source": "https://images-na.ssl-images-amazon.com/images/P/8809954092.01.LZZZZZZZ.jpg"
+    },
+    "spineColor": "#9B3428",
+    "accentColor": "#9B3428",
+    "evidenceTag": "interesse-confermato",
+    "officeNote": "Le indagini hanno prodotto risultati concreti.",
+    "visible": true,
+    "order": 7,
+    "provenance": {
+      "photo": "FOTO INIZIALI LIBRO/photo_2026-11-04_15-13-56.jpg",
+      "metadataUrl": "https://giunti.it/products/vino-manuale-per-aspiranti-intenditori-neiman-ophelie-9788809954090",
+      "verifiedOn": "2026-11-04",
+      "amazonVerifiedOn": "2026-11-04"
+    },
+    "amazonUrl": "https://www.amazon.it/dp/8809954092"
+  },
+  {
+    "slug": "atomic-habits",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "isbn13": "9791221208870",
+    "publisher": "De Agostini",
+    "edition": "2023",
+    "subtitle": "Piccole abitudini per grandi cambiamenti",
+    "id": "b008",
+    "cover": {
+      "src": "covers/atomic-habits.webp",
+      "smallSrc": "covers/atomic-habits-480.webp",
+      "width": 630,
+      "height": 960,
+      "alt": "Copertina di Atomic Habits, James Clear",
+      "source": "https://www.deagostinilibri.it/uploads/2019/08/atomic-habits-def.jpg"
+    },
+    "spineColor": "#C1A356",
+    "accentColor": "#C1A356",
+    "evidenceTag": "interesse-confermato",
+    "officeNote": "Le indagini hanno prodotto risultati concreti.",
+    "visible": true,
+    "order": 8,
+    "provenance": {
+      "photo": "FOTO INIZIALI LIBRO/photo_2026-11-04_15-13-57.jpg",
+      "metadataUrl": "https://www.deagostinilibri.it/libri/piccole-abitudini-per-grandi-cambiamenti",
+      "verifiedOn": "2026-11-04",
+      "amazonVerifiedOn": "2026-11-04"
+    },
+    "amazonUrl": "https://www.amazon.it/dp/B0C7FQW26M"
+  },
+  {
+    "slug": "git",
+    "title": "Git",
+    "author": "Ferdinando Santacroce",
+    "isbn13": "9788850334759",
+    "publisher": "Apogeo",
+    "edition": "2019",
+    "subtitle": "Guida per imparare a gestire, distribuire e versionare codice",
+    "id": "b009",
+    "cover": {
+      "src": "covers/git.webp",
+      "smallSrc": "covers/git-480.webp",
+      "width": 350,
+      "height": 500,
+      "alt": "Copertina di Git, Ferdinando Santacroce",
+      "source": "https://images-na.ssl-images-amazon.com/images/P/8850334753.01.LZZZZZZZ.jpg"
+    },
+    "spineColor": "#C46B26",
+    "accentColor": "#C46B26",
+    "evidenceTag": "interesse-confermato",
+    "officeNote": "Le indagini hanno prodotto risultati concreti.",
+    "visible": true,
+    "order": 9,
+    "provenance": {
+      "photo": "FOTO INIZIALI LIBRO/photo_2026-11-04_15-13-59.jpg",
+      "metadataUrl": "https://www.apogeonline.com/libri/git-ferdinando-santacroce/",
+      "verifiedOn": "2026-11-04",
+      "amazonVerifiedOn": "2026-11-04"
+    },
+    "amazonUrl": "https://www.amazon.it/dp/8850334753"
+  },
+  {
+    "slug": "clean-code",
+    "title": "Clean Code — Nuova edizione",
+    "author": "Robert C. Martin",
+    "isbn13": "9788850339792",
+    "publisher": "Apogeo",
+    "edition": "2026",
+    "subtitle": "Guida per scrivere codice pulito ai tempi dell'AI",
+    "id": "b010",
+    "cover": {
+      "src": "covers/clean-code.webp",
+      "smallSrc": "covers/clean-code-480.webp",
+      "width": 350,
+      "height": 500,
+      "alt": "Copertina di Clean Code — Nuova edizione, Robert C. Martin",
+      "source": "https://images-na.ssl-images-amazon.com/images/P/8850339798.01.LZZZZZZZ.jpg"
+    },
+    "spineColor": "#14364D",
+    "accentColor": "#14364D",
+    "evidenceTag": "interesse-confermato",
+    "officeNote": "Le indagini hanno prodotto risultati concreti.",
+    "visible": true,
+    "order": 10,
+    "provenance": {
+      "photo": "FOTO INIZIALI LIBRO/photo_2026-11-04_15-14-00.jpg",
+      "metadataUrl": "https://www.apogeonline.com/libri/clean-code-nuova-edizione-robert-c-martin/",
+      "verifiedOn": "2026-11-04",
+      "amazonVerifiedOn": "2026-11-04"
+    },
+    "amazonUrl": "https://www.amazon.it/dp/8850339798"
+  },
+  {
+    "slug": "genai-trading",
+    "title": "GenAI Trading",
+    "author": "Hamlet Jesse Medina Ruiz, Ernest P. Chan",
+    "isbn13": "9788850339464",
+    "publisher": "Apogeo",
+    "edition": "2026",
+    "subtitle": "Strategie intelligenti per gestire patrimoni, investimenti e portafogli",
+    "id": "b011",
+    "cover": {
+      "src": "covers/genai-trading.webp",
+      "smallSrc": "covers/genai-trading-480.webp",
+      "width": 350,
+      "height": 500,
+      "alt": "Copertina di GenAI Trading, Hamlet Jesse Medina Ruiz, Ernest P. Chan",
+      "source": "https://images-na.ssl-images-amazon.com/images/P/8850339461.01.LZZZZZZZ.jpg"
+    },
+    "spineColor": "#8E302E",
+    "accentColor": "#8E302E",
+    "evidenceTag": "interesse-confermato",
+    "officeNote": "Le indagini hanno prodotto risultati concreti.",
+    "visible": true,
+    "order": 11,
+    "provenance": {
+      "photo": "FOTO INIZIALI LIBRO/photo_2026-11-04_15-14-02.jpg",
+      "metadataUrl": "https://www.apogeonline.com/libri/genai-trading-hamlet-jesse-medina-ruiz-ernest-p-chan/",
+      "verifiedOn": "2026-11-04",
+      "amazonVerifiedOn": "2026-11-04"
+    },
+    "amazonUrl": "https://www.amazon.it/dp/8850339461"
+  }
+]

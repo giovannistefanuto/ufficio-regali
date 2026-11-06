@@ -1,0 +1,63 @@
+name: Verify and deploy Pages
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run test
+      - run: npm run format:check
+      - name: Build for repository path
+        shell: bash
+        env:
+          REPOSITORY: ${{ github.event.repository.name }}
+          CUSTOM_BASE: ${{ vars.VITE_BASE_PATH }}
+        run: |
+          if [ -n "$CUSTOM_BASE" ]; then
+            export VITE_BASE_PATH="$CUSTOM_BASE"
+          elif [[ "$REPOSITORY" == *.github.io ]]; then
+            export VITE_BASE_PATH="/"
+          else
+            export VITE_BASE_PATH="/$REPOSITORY/"
+          fi
+          npm run build
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        with:
+          path: dist
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

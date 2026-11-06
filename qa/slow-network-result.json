@@ -1,0 +1,16 @@
+{
+  "ready": true,
+  "title": "Un regalo per Giovanni?",
+  "cta": "Consulta i risultati ↓",
+  "overflow": false,
+  "fonts": "loading",
+  "elapsedMs": 3161,
+  "javascriptErrors": [],
+  "network": {
+    "latencyMs": 400,
+    "downloadKBps": 50,
+    "uploadKBps": 20,
+    "cache": "disabled",
+    "cpuSlowdown": 4
+  }
+}

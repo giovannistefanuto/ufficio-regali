@@ -1,0 +1,64 @@
+.hero-evidence {
+  width: min(100%, 290px);
+  margin: 32px auto 24px;
+}
+.hero-evidence .eyebrow {
+  margin-top: 20px;
+  justify-content: center;
+  text-align: center;
+  font-size: 10px;
+  color: var(--muted);
+}
+.intro-status {
+  min-height: 140px;
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 1px solid var(--divider);
+  position: relative;
+}
+.intro-frame {
+  animation: intro-fade 350ms ease-out;
+}
+.intro-frame > p:first-child {
+  font: 22px/1.25 var(--serif);
+  color: var(--archive);
+}
+.intro-frame .microcopy {
+  font-size: 10px;
+  margin-top: 4px;
+  max-width: 48ch;
+}
+.intro-status button {
+  background: transparent;
+  border: none;
+  padding: 8px 0;
+  min-height: 44px;
+  color: var(--muted);
+  font: 10px/1.4 var(--mono);
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+@keyframes intro-fade {
+  from {
+    opacity: 0.4;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+@media (max-width: 700px) {
+  .hero-evidence {
+    width: 210px;
+  }
+  .intro-status {
+    min-height: 140px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .intro-frame {
+    animation: none;
+  }
+}
